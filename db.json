@@ -2,36 +2,36 @@
 
     {
       "nazwa": "Rocket League",
-      "url_gry" : "",
+      "url_gry" : "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Rocket_League_coverart.jpg/960px-Rocket_League_coverart.jpg?utm_source=pl.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
       "tytul" : "Rocket League",
       "kategoria" : "Action, Sports",
       "opis" : "To komputerowa gra sportowa, stworzona i wydana przez studio Psyonix. Premiera gry odbyła się 7 lipca 2015 na platformach Windows oraz PlayStation 4, 17 lutego 2016 została wydana na konsolę Xbox One, a 14 listopada 2017 na konsolę Nintendo Switch"
     },
     {
       "nazwa": "Fortnite",
-      "url_gry" : "",
+      "url_gry" : "https://www.computerworld.pl/wp-content/uploads/2024/08/3487901-0-06589000-1724057676-social-image-chapter4-s3-3840x2160-d35912cc25ad-2048x1152.jpg",
       "tytul" : "Fortnite",
       "kategoria" : "Battle Royale, Shooter, Survival, Action",
       "opis" : "Fortnite to darmowa gra sieciowa typu battle royale stworzona przez Epic Games, w której 100 graczy walczy o przetrwanie na stale zmniejszającej się mapie. Tytuł wyróżnia się unikalną mechaniką budowania struktur ochronnych oraz licznymi trybami dodatkowymi, takimi jak LEGO Fortnite czy Fortnite Festival."
     },
     {
       "nazwa": "Wiedźmin 3",
-      "url_gry" : "",
+      "url_gry" : "https://fwcdn.pl/fpo/86/29/678629/7615888_1.3.jpg",
       "tytul" : "Wiedźmin 3",
       "kategoria" : "RPG, Action-Adventure, Open World",
       "opis" : "Wiedźmin 3: Dziki Gon to utytułowana, fabularna gra RPG akcji stworzona przez polskie studio CD Projekt RED, w której gracze wcielają się w Geralta z Rivii – profesjonalnego zabójcę potworów szukającego swojej przybranej córki. Produkcja zachwyca ogromnym, otwartym światem fantasy, dojrzałą fabułą oraz głębokimi wyborami moralnymi, które realnie wpływają na zakończenie historii."
     },
     {
       "nazwa": "Hades",
-      "url_gry" : "",
-      "tytul" : "Fortnite",
+      "url_gry" : "https://image.ceneostatic.pl/data/products/90379048/i-hades-digital.jpg",
+      "tytul" : "Hades",
       "kategoria" : "Rogue-lite, Action RPG, Hack and slash",
       "opis" : "Hades to dynamiczna gra typu roguelike stworzona przez niezależne studio Supergiant Games, w której gracze wcielają się w Zagreusa próbującego uciec z podziemnego królestwa swojego ojca. Tytuł słynie z niezwykle płynnej walki, wciągającej mitologicznej fabuły rozwijanej z każdą kolejną porażką oraz barwnej oprawy wizualnej."
     },
     {
-      "nazwa": "Hades",
-      "url_gry" : "",
-      "tytul" : "Hades",
+      "nazwa": "Counter Strike 2",
+      "url_gry" : "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1791824795",
+      "tytul" : "Counter Strike 2",
       "kategoria" : "Shooter, FPS, Action",
       "opis" : "Counter-Strike 2 (CS2) to darmowa, taktyczna strzelanka pierwszoosobowa stworzona przez firmę Valve Corporation, będąca oficjalną i technologiczną kontynuacją legendarnego CS:GO. Rozgrywka opiera się na sieciowych starciach dwóch drużyn – terrorystów i antyterrorystów – a kluczowym elementem nowej wersji jest zaawansowany silnik Source 2, który wprowadził realistyczną fizykę dymu oraz odświeżoną grafikę."
     }
