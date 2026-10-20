@@ -34,5 +34,33 @@
       "tytul" : "Counter Strike 2",
       "kategoria" : "Shooter, FPS, Action",
       "opis" : "Counter-Strike 2 (CS2) to darmowa, taktyczna strzelanka pierwszoosobowa stworzona przez firmę Valve Corporation, będąca oficjalną i technologiczną kontynuacją legendarnego CS:GO. Rozgrywka opiera się na sieciowych starciach dwóch drużyn – terrorystów i antyterrorystów – a kluczowym elementem nowej wersji jest zaawansowany silnik Source 2, który wprowadził realistyczną fizykę dymu oraz odświeżoną grafikę."
+    },
+    {
+      "nazwa": "Red Dead Redemption 2",
+      "url_gry" : "https://image.ceneostatic.pl/data/products/86476141/i-red-dead-redemption-2-digital.jpg",
+      "tytul" : "Red Dead Redemption 2",
+      "kategoria" : "Action-adventure, Sandbox, Western, TPP",
+      "opis" : "Counter-Strike 2 (CS2) to darmowa, taktyczna strzelanka pierwszoosobowa (FPS) stworzona i wydana przez Valve Corporation. Gra zadebiutowała we wrześniu 2023 roku jako oficjalna, darmowa aktualizacja całkowicie zastępująca legendarne Counter-Strike: Global Offensive (CS:GO)."
+    },
+    {
+      "nazwa": "Grand Theft Auto V",
+      "url_gry" : "https://image.ceneostatic.pl/data/products/22507305/i-grand-theft-auto-v-digital.jpg",
+      "tytul" : "Grand Theft Auto V",
+      "kategoria" : "Modern Sandbox, Action-Adventure, TPP, RPG",
+      "opis" : "Grand Theft Auto V (GTA V) to kultowa, gangsterska gra akcji z otwartym światem stworzona przez studio Rockstar North i wydana przez Rockstar Games. Gra zadebiutowała we wrześniu 2013 roku i stała się jednym z największych fenomenów w historii rozrywki, osiągając astronomiczną sprzedaż na poziomie ponad 230 milionów egzemplarzy na przestrzeni trzech generacji konsol oraz PC."
+    },
+    {
+      "nazwa": "Terraria",
+      "url_gry" : "https://s.pacn.ws/1/p/bz/terraria-collectors-edition-215573.3.jpg?v=mvxot5&width=721",
+      "tytul" : "Terraria",
+      "kategoria" : "2D Sandbox, Survival, Crafting Game",
+      "opis" : "Terraria to popularna, dwuwymiarowa gra sandboksowa z elementami RPG i akcji, stworzona i wydana przez studio Re-Logic w maju 2011 roku. Gra, często nazywana „Minecraftem w 2D”, zdobyła status kultowej i sprzedała się w nakładzie przekraczającym 58 milionów egzemplarzy, oferując graczom niemal nieograniczoną swobodę i setki godzin rozgrywki."
+    },
+    {
+      "nazwa": "Plants vs Zombies",
+      "url_gry" : "https://www.manticgames.com/wp-content/uploads/2026/05/pvz-gamebox-webp.webp",
+      "tytul" : "Plants vs Zombies",
+      "kategoria" : "Tower Defense, Real-Time Strategy, Lane Defense",
+      "opis" : "Plants vs. Zombies (PvZ) to kultowa, dwuwymiarowa gra strategiczna typu tower defense stworzona i wydana przez studio PopCap Games w maju 2009 roku. Tytuł ten zyskał gigantyczną popularność na całym świecie dzięki przystępnej, niezwykle wciągającej rozgrywce, unikalnemu humorowi oraz ikonicznej oprawie audiowizualnej."
     }
 ]
